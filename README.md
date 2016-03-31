@@ -23,6 +23,8 @@ Practice exercise as part of work with Nashville Software School. Learning to bu
 - regular expressions 
 - .preventDefault() method for disabling submit function on form buttons
 
+##Screenshot
+
 ## How to run: 
 ```
 http-server -p 5656

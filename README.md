@@ -24,6 +24,7 @@ Practice exercise as part of work with Nashville Software School. Learning to bu
 - .preventDefault() method for disabling submit function on form buttons
 
 ##Screenshot
+![When palindrome entered:](https://github.com/madduxTim/strings/blob/master/screenshots/Screen%20Shot%202016-03-31%20at%208.53.35%20AM.png)
 
 ## How to run: 
 ```
